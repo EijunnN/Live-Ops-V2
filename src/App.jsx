@@ -22,7 +22,7 @@ export default function App() {
     <> 
       
       <div className="w-[350px] flex justify-center m-auto mt-[80px] " >
-        <img  src="./logo-chazki.png" alt="logo" />
+        <img src="public/logo-chazki.png" alt="logo" />
       </div>
       <div className="flex  items-center space-y-4">
         <ChaskiWeb key={search} id={search} className="w-[75%] h-[100%]" />
